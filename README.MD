@@ -35,7 +35,7 @@ Traditional numerical methods (like FDM, FVM) require dense grids for high accur
  -python pinn_ode_solver.py
 
 ## Visualization
-![Comparison Plot](your_plot_image_link_here.png)
+comparison_plot.png
 *Comparison: PINN vs Finite Difference Method at t=0.5*
 
 ## Related Research
